@@ -1,6 +1,6 @@
 #  World Wide City Weather application
 
-## This responsive application allows for users to search over 200,000 cities on Earth. 
+## This responsive application allows for users to search over 200,000 cities on Earth and recieve relevant information about the current weather status. 
 
 ### Languages Used:
 - Javascript
